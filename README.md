@@ -206,30 +206,45 @@ plt.axis('off')
 
 ##  Output
 
+### Original Image
+
+<img width="685" height="531" alt="image" src="https://github.com/user-attachments/assets/4776c190-3aa9-429c-926d-0203081dd7e6" />
+
+
 ### Image Translation
 - Original image is displayed  
-- Translated image (shifted right and down) is displayed  
+- Translated image (shifted right and down) is displayed
+<img width="698" height="550" alt="image" src="https://github.com/user-attachments/assets/02b983c1-7fd4-43a8-acca-ab5c92b780e5" />
 
 ### Image Scaling
 - Original image is displayed  
 - Downscaled image (0.5×) is displayed  
-- Upscaled image (2×) is displayed  
+- Upscaled image (2×) is displayed
+<img width="719" height="532" alt="image" src="https://github.com/user-attachments/assets/0e8e7949-9e07-43dd-ae46-08e0846e59df" />
 
 ### Image Shearing
 - Original image is displayed  
 - Horizontally sheared image is displayed  
 - Vertically sheared image is displayed  
+<img width="676" height="539" alt="image" src="https://github.com/user-attachments/assets/4e2196bd-5c13-4b62-9568-1a12df15517c" />
 
 ### Image Reflection
 - Original image is displayed  
 - Horizontally flipped image is displayed  
 - Vertically flipped image is displayed  
 - Both-axis flipped image is displayed  
+<img width="681" height="512" alt="image" src="https://github.com/user-attachments/assets/a961f748-a80f-456b-824c-820487be5de7" />
 
 ### Image Rotation
 - Original image is displayed  
 - 45° rotated image is displayed  
-- 90° rotated image is displayed  
+- 90° rotated image is displayed
+  
+<img width="679" height="559" alt="image" src="https://github.com/user-attachments/assets/d5ce6266-7f78-4f7a-8ae9-8b463dbe5b4d" />
+
+### Image Cropping
+
+<img width="674" height="552" alt="image" src="https://github.com/user-attachments/assets/4639251c-d899-42b8-943e-4b06ab6e7196" />
 
 ---
 
